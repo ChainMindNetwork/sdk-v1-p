@@ -1,5 +1,7 @@
 # ChainMind SDK
 
+![image](https://github.com/user-attachments/assets/617822bd-a0ca-4d86-8c88-2657c372a802)
+
 Official SDK for ChainMind AI Agents - Real-time Solana blockchain analysis with AI-powered insights.
 
 ## Installation
